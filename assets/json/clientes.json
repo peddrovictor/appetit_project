@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "nome":"Justine Marshall",
+    "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outdoors-man-portrait_%28cropped%29.jpg/220px-Outdoors-man-portrait_%28cropped%29.jpg",
+    "selecionado":false
+  },
+  {
+    "id":2,
+    "nome":"Bairam Frootan",
+    "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outdoors-man-portrait_%28cropped%29.jpg/220px-Outdoors-man-portrait_%28cropped%29.jpg",
+    "selecionado":false
+  },
+  {
+    "id":3,
+    "nome":"Bairan Frootan",
+    "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outdoors-man-portrait_%28cropped%29.jpg/220px-Outdoors-man-portrait_%28cropped%29.jpg",
+    "selecionado":false
+  }
+]

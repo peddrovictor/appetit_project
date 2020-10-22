@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nome": "Cuscuz",
+    "list_produtos": [
+      {
+        "id":3,
+        "nome":"Cuscuz Completo",
+        "descricao":"Milho ou Arroz",
+        "valor":2.25,
+        "quantidade":1,
+        "imagem": "https://i.pinimg.com/originals/6b/ec/de/6becded6ca2c81dcc1b35e8374ad27e7.jpg",
+        "selecionado":false,
+        "opcao":[
+          {
+            "nome":"Cuscuz de milho"
+          },
+          {
+            "nome":"Cuscuz de arroz"
+          }
+        ]
+      },
+      {
+        "id":4,
+        "nome":"Cuscuz Completo",
+        "descricao":"Milho ou Arroz",
+        "valor":3.25,
+        "quantidade":1,
+        "imagem": "https://i.pinimg.com/originals/6b/ec/de/6becded6ca2c81dcc1b35e8374ad27e7.jpg",
+        "selecionado":false,
+        "opcao":[
+          {
+            "nome":"Cuscuz de milho"
+          },
+          {
+            "nome":"Cuscuz de arroz"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Pães",
+    "list_produtos": [
+      {
+        "id":5,
+        "nome":"Pão caseiro",
+        "descricao":null,
+        "valor":2.55,
+        "quantidade":1,
+        "imagem": "https://www.receitasdepesos.com.br/wp-content/uploads/2020/02/50274316_2196275257259587_649057901607911424_n.jpg",
+        "selecionado":false,
+        "opcao":null
+      },
+      {
+        "id":6,
+        "nome":"Pão caseiro completo",
+        "descricao":null,
+        "valor":3.25,
+        "quantidade":1,
+        "imagem": "https://www.receitasdepesos.com.br/wp-content/uploads/2020/02/50274316_2196275257259587_649057901607911424_n.jpg",
+        "selecionado":false,
+        "opcao":null
+      },
+      {
+        "id":7,
+        "nome":"Misto quente",
+        "descricao":null,
+        "valor":3.55,
+        "quantidade":1,
+        "imagem": "https://www.receitasdepesos.com.br/wp-content/uploads/2020/02/50274316_2196275257259587_649057901607911424_n.jpg",
+        "selecionado":false,
+        "opcao":null
+      },
+      {
+        "id":8,
+        "nome":"Lingua de sogra(pq.)",
+        "descricao":null,
+        "valor":2.55,
+        "quantidade":1,
+        "imagem": "https://www.receitasdepesos.com.br/wp-content/uploads/2020/02/50274316_2196275257259587_649057901607911424_n.jpg",
+        "selecionado":false,
+        "opcao":null
+      },
+      {
+        "id":9,
+        "nome":"Lingua de sogra(gr.)",
+        "descricao":null,
+        "valor":3.55,
+        "quantidade":1,
+        "imagem": "https://www.receitasdepesos.com.br/wp-content/uploads/2020/02/50274316_2196275257259587_649057901607911424_n.jpg",
+        "selecionado":false,
+        "opcao":null
+      }
+    ]
+  }
+]
